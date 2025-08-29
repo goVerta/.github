@@ -1,18 +1,16 @@
 # Verta
 
 
-```
-██╗   ██╗███████╗██████╗ ████████╗ █████╗  
-██║   ██║██╔════╝██╔══██╗╚══██╔══╝██╔══██╗  
-██║   ██║█████╗  ██████╔╝   ██║   ███████║  
-╚██╗ ██╔╝██╔══╝  ██╔═══╝    ██║   ██╔══██║  
- ╚████╔╝ ███████╗██║        ██║   ██║  ██║  
-  ╚═══╝  ╚══════╝╚═╝        ╚═╝   ╚═╝  ╚═╝  
-```
+██╗   ██╗███████╗██████╗ ████████╗ █████╗ 
+██║   ██║██╔════╝██╔══██╗╚══██╔══╝██╔══██╗
+██║   ██║█████╗  ██████╔╝   ██║   ███████║
+╚██╗ ██╔╝██╔══╝  ██╔══██╗   ██║   ██╔══██║
+ ╚████╔╝ ███████╗██║  ██║   ██║   ██║  ██║
+  ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 
 **Verta** is an engineering collective operating in systems programming distributed infrastructure and applied intelligence
 
-Tech domains converge here — from low level concurrency in Go to JVM scale orchestration in Java to high velocity builds in Python and beyond
+Tech domains converge here from low level concurrency in Go to JVM scale orchestration in Java to high velocity builds in Python and beyond
 
 Research interests include
 
