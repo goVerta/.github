@@ -9,18 +9,22 @@
   ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-**Verta** is an engineering collective operating in systems programming distributed infrastructure and applied intelligence
+**Verta** is a syndicate of engineering minds architecting across the volatile frontiers of machine learning backend engineering and devops
 
-Tech domains converge here from low level concurrency in Go to JVM scale orchestration in Java to high velocity builds in Python and beyond
+Our pursuits traverse the entire computational spectrum from concurrency woven in the fibers of Go to JVM level orchestration under industrial scale to accelerated pipelines in Python cascading into distributed ecosystems and beyond
 
-Research interests include
-* Resilient infrastructure at planetary scale
-* Compiler design and runtime optimizations
-* Distributed systems and consensus algorithms
-* Applied machine intelligence in production
+Research vectors spiral across
 
-Artifact creation lives open source wherever possible with emphasis on clarity over noise efficiency over verbosity and timeless engineering over transient hype
+* Resilience architectures that persist at planetary faultlines
+* Compiler metaprogramming and runtime metamorphosis
+* Distributed consensus and algorithmic sovereignty
+* Machine intelligence at production thresholds
+* DevOps paradigms transcending mere automation into cultural substrate
+* Backend engineering doctrines forged in scale latency and precision
+
+Artifacts are released in the open wherever obscurity offers no gain codified with an ethos of clarity above clamor efficiency above embellishment and engineering that aspires to endure beyond transient technological spectacle
 
 ## Connect
+
 * Instagram: [go.verta](https://instagram.com/go.verta)
-* GitHub: [Verta](https://github.com/goVerta)
+* GitHub: [Verta](https://github.com/Verta)
