@@ -26,3 +26,4 @@ Artifacts are released openly with a commitment to precision over noise efficien
 
 * Instagram: [go.verta](https://instagram.com/go.verta)
 * GitHub: [Verta](https://github.com/Verta)
+* Mail: [verta.connect@gmail.com](mailto:verta.connect@gmail.com)
