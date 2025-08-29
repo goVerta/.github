@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="220" alt="Verta cosmic"/>
 </p>
@@ -180,4 +179,3 @@ Notes for maintainers
     Copyright © 2025 Verta Collective Licensed under MIT
   </sub>
 </p>
-```
