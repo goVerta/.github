@@ -23,4 +23,4 @@ Artifact creation lives open source wherever possible with emphasis on clarity o
 
 ## Connect
 * Instagram: [go.verta](https://instagram.com/go.verta)
-* GitHub: [Verta](https://github.com/Verta)
+* GitHub: [Verta](https://github.com/goVerta)
