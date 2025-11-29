@@ -1,5 +1,5 @@
 ```
-██╗   ██╗███████╗██████╗ ████████╗ █████╗ 
+██╗   ██╗███████╗██████╗ ████████╗ █████╗
 ██║   ██║██╔════╝██╔══██╗╚══██╔══╝██╔══██╗
 ██║   ██║█████╗  ██████╔╝   ██║   ███████║
 ╚██╗ ██╔╝██╔══╝  ██╔══██╗   ██║   ██╔══██║
@@ -7,23 +7,19 @@
   ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-An assembly of engineers working where intelligence meets infrastructure and systems demand both precision and scale
+We are a small team obsessed with building developer tools that feel fast, clean and unfairly reliable.
+No fluff. No configs from hell. Just systems that behave.
 
-Our work spans from the intricacies of concurrency and runtime orchestration to the rigor of distributed design and large scale automation building systems that learn adapt and endure
+### We ship
 
-Core pursuits include
+* Tools that make engineers faster
+* Infra that stays predictable under pressure
+* Automation that feels invisible
 
-* Infrastructures designed for resilience at planetary scale
-* Compilers and runtimes shaped for performance evolution
-* Distributed consensus and algorithmic reliability
-* Intelligent systems embedded in production lifecycles
-* Engineering cultures where automation becomes reliability
-* Architectures balancing speed clarity and timelessness
 
-Artifacts are released openly with a commitment to precision over noise efficiency over ornament and engineering that aspires to outlast the hype cycles of technology
+### Connect
 
-## Connect
+Instagram: go.verta
+GitHub: Verta
+Mail: [verta.connect@gmail.com](mailto:verta.connect@gmail.com)
 
-* Instagram: [go.verta](https://instagram.com/go.verta)
-* GitHub: [Verta](https://github.com/Verta)
-* Mail: [verta.connect@gmail.com](mailto:verta.connect@gmail.com)
